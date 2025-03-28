@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello, I'm a student of information systems currently working as a customer success. But my goal is to become a developer. I have some personal projects and each new one I hope to post here.
+<br>Hello, I'm a student of information systems currently working as a Developer. I have some personal projects and each new one I hope to post here.
 
 
 ## 🌐 Socials:
