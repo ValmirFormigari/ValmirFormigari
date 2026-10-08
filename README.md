@@ -52,7 +52,3 @@ Outside work I keep personal projects running, like a print queue manager for LA
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=ValmirFormigari&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ValmirFormigari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
